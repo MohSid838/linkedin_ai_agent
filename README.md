@@ -131,8 +131,7 @@ linkedin_ai_agent/
 ---
 
 ## 📌 License
-
-MIT License © 2026
+@Mohsid383
 
 ---
 
