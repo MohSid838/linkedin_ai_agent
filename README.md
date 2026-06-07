@@ -11,7 +11,7 @@
 ![Automation](https://img.shields.io/badge/Automation-Playwright-green)
 ![AI](https://img.shields.io/badge/LLM-Powered-orange)
 ![Status](https://img.shields.io/badge/Status-Active-success)
-![License](https://img.shields.io/badge/License-MIT-black)
+![License](https://img.shields.io/badge/License-MohSid383)
 
 </div>
 
